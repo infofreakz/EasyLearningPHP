@@ -6,5 +6,5 @@ In this example, we gonna add 2 variables directly
 */
 $var1 = 2;
 $var2 = 3;
-echo "When adding $var1 & $var2, the result is"."\t".($var1+$var2);
+echo "<center>"."When adding $var1 & $var2, the result is"."\t".($var1+$var2)."</center>";
 ?>

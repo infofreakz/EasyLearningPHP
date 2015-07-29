@@ -10,7 +10,7 @@ $var1 = 1;
 $var2 = 2;
 $var3 = 5;
 $var4 = "6";
-echo "When adding"."\t".$var1."\t"."&"."\t".$var2."\t".", the result is"."\t".$var3;
+echo "<center>"."When adding"."\t".$var1."\t"."&"."\t".$var2."\t".", the result is"."\t".$var3."</center>";
 /*
 to check the variable type
 */
